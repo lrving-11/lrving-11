@@ -14,7 +14,7 @@
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </div>
 <div>
-	<img  src="https://img.shields.io/badge/-Vue.js-#4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+	<img  src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
 </div>
 
 <div align="center">
